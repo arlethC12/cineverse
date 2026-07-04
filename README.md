@@ -28,19 +28,19 @@ Este proyecto forma parte de mi portafolio como egresada de **Licenciatura en Si
 
 ## Inicio
 
-![Inicio](./src/assets/menu.png)
+![Inicio](./docs/images/menu.png)
 
 ---
 
 ## Tarjetas de películas
 
-![Películas](./src/assets/dpelicula.png)
+![Películas](./docs/images/dpelicula.png)
 
 ---
 
 ## Responsive
 
-![Responsive](./src/assets/nabv.png)
+![Responsive](./docs/images/nabv.png)
 
 ---
 
